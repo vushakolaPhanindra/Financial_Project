@@ -105,3 +105,5 @@ Commit changes (git commit -m "Add feature")
 Push branch (git push origin feature-name)
 
 Open a Pull Request
+
+Thank You! Please Give a Star if you like this Project 
