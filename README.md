@@ -25,12 +25,6 @@ Predicts credit scores (**Good**, **Standard**, **Poor**) using Random Forest, S
 **Frontend:** Streamlit, Plotly, Matplotlib  
 **Infrastructure:** uvicorn, joblib, seaborn  
 
-## Quick Start
-
-### Prerequisites
-- Python 3.11+  
-- pip  
-
 ### Installation
 
 ```bash
